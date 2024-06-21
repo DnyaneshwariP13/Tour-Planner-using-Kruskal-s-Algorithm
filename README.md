@@ -15,7 +15,7 @@ Required libraries:
   networkx
   seaborn
 
-Dataset
+Dataset:
   The project uses a CSV file containing UNESCO World Heritage Sites data. The file should be named whc-sites(tangibles)-2021.csv and should be placed in the specified directory.
 
 
